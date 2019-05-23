@@ -1,4 +1,4 @@
-# Design Portfolio Examples
+# Design Portfolios
 
 By now you’ve probably completed, or are close to completing the creation of your design portfolio.
 
